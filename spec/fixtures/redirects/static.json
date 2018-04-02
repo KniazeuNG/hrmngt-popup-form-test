@@ -1,8 +1,0 @@
-{
-  "redirects": {
-    "/old/gone": {
-      "url": "/",
-      "status": 302
-    }
-  }
-}
